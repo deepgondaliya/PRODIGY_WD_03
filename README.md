@@ -26,10 +26,3 @@ google-chrome index.html
 - If all spaces are filled, the game ends in a draw.
 
 
-
-## Author
-
-👤 **Aras Güngöre**
-
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
